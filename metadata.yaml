@@ -1,0 +1,33 @@
+_repo: V-nrikki-Stoolin-tarinat--suom.-Cajander-_12688
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Cajander, Paavo Emil
+    birthdate: 1846
+    deathdate: 1913
+    gutenberg_agent_id: '4531'
+    url: http://www.gutenberg.org/2009/agents/4531
+    wikipedia: http://fi.wikipedia.org/wiki/Paavo_Cajander
+creator:
+  author:
+    agent_name: Runeberg, Johan Ludvig
+    birthdate: 1804
+    deathdate: 1877
+    gutenberg_agent_id: '2842'
+    url: http://www.gutenberg.org/2009/agents/2842
+    wikipedia: http://en.wikipedia.org/wiki/Johan_Ludvig_Runeberg
+description: ''
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12688'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Finland -- History -- Russian Conquest, 1808-1809 -- Poetry'
+- GITenberg
+title: Vänrikki Stoolin tarinat (suom. Cajander)
+url: http://www.gutenberg.org/ebooks/12688
