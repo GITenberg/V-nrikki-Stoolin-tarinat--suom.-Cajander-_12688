@@ -1,5 +1,5 @@
 _repo: V-nrikki-Stoolin-tarinat--suom.-Cajander-_12688
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Cajander, Paavo Emil
@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '4531'
     url: http://www.gutenberg.org/2009/agents/4531
     wikipedia: http://fi.wikipedia.org/wiki/Paavo_Cajander
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Runeberg, Johan Ludvig
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2842
     wikipedia: http://en.wikipedia.org/wiki/Johan_Ludvig_Runeberg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12688#V-nrikki-Stoolin-tarinat--suom.-Cajander-
 gutenberg_issued: '2004-06-01'
 gutenberg_type: Text
 identifiers:
